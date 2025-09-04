@@ -19,7 +19,7 @@ Un gestionnaire de sauvegarde intelligent et automatisé pour Linux avec support
 ### Méthode 1 : Installation système
 ```bash
 # Télécharger le script
-wget https://raw.githubusercontent.com/votre-username/SmartBackup/main/smartbackup.py
+wget https://raw.githubusercontent.com/alphagoones/SmartBackup/main/smartbackup.py
 
 # Rendre exécutable et installer
 chmod +x smartbackup.py
@@ -29,7 +29,7 @@ sudo cp smartbackup.py /usr/local/bin/smartbackup
 ### Méthode 2 : Installation locale
 ```bash
 # Cloner le repository
-git clone https://github.com/votre-username/SmartBackup.git
+git clone https://github.com/alphagoones/SmartBackup.git
 cd SmartBackup
 
 # Créer un alias dans votre .bashrc
