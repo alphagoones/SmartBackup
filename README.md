@@ -2,6 +2,8 @@
 
 Un gestionnaire de sauvegarde intelligent et automatisé pour Linux avec support incrémentiel, compression et planification.
 
+![Screenshot](screenshot.png)
+
 ## ✨ Fonctionnalités
 
 - **🔄 Sauvegarde incrémentielle** : Sauvegarde uniquement les fichiers modifiés
